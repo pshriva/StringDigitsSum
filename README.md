@@ -8,6 +8,7 @@ Execution Steps:
 1. Please download the folder by clicking the 'clone or download' button on the right side.
 2. Unzip the repository and open the path of the file Solution.java in the command line interface
 3. Run the following command to compile the code from the command line interface
+
 	$ javac Solution.java SumDigit.java
 4. Once compiled, 2 .class files will be created, 1 for each .java file
 5. Run on of the following commands to execute the program:
