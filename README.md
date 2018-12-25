@@ -13,10 +13,12 @@ Execution Steps:
 5. Run on of the following commands to execute the program:
 	a. For decimal digit sum with string, run >
 	   $ java Solution <some_string>
+	   
 	   eg:  java Solution "abc123"
 
 	b. For hexaDecimal digit sum with string, run >
 	   $ java Solution -x <some_string>"
+	   
 	   eg:  java Solution -x "abc123"
 
 	c. For hexaDecimal digit sum of string in a file, run >
@@ -30,6 +32,7 @@ Execution Steps:
 
 	d. For decimal digit sum of string in a file, run >
 	   $ java Solution -f <complete_path_to_file/file_name.txt>
+	   
 	   eg: java Solution -f "/Users/123/Desktop/file1.txt"
 
 
