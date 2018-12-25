@@ -11,6 +11,7 @@ Execution Steps:
 	$ javac Solution.java
 4. Once compiled, 2 .class files will be created, 1 for each .java file
 5. Run on of the following commands to execute the program:
+
 	a. For decimal digit sum with string, run >
 	   $ java Solution <some_string>
 	   
